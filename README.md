@@ -13,7 +13,8 @@
 </br>
 
 <div>
-  <p>Eu sou nova nesse mundo de programação, fiz meu primeiro "Hello, World!" na metade de 2023, desde então eu me apaixonei por códigos ❤️ Eu ADORO programação de jogos, mas confesso que também tenho uma quedinha por web, ainda não tenho certeza para qual área eu quero seguir, veremos aonde a vida vai me levar ✌️</p>
+  <p>Eu sou nova nesse mundo de programação, fiz meu primeiro "Hello, World!" na metade de 2023, desde então eu me apaixonei por códigos ❤️</p>
+ <p>Eu ADORO programação de jogos, mas confesso que também tenho uma quedinha por web, ainda não tenho certeza para qual área eu quero seguir, veremos aonde a vida vai me levar ✌️</p>
 </div>
 
 ##
