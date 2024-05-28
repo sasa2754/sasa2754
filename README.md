@@ -5,26 +5,13 @@
 </div>
 
 <div>
-  <img width="50%" height"50%" src=""/>
+  <img width="50%" heigth="50%" scr="https://tenor.com/pt-BR/view/test-typing-codes-gif-15828752"/>
 </div>
 
 <div>
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasa2754&layout=donut&theme=neon"/>
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasa2754&layout=donut&theme=neon)](https://github.com/sasa2754/github-readme-stats) -->
 </div>
   
+![Snake animation](https://github.com/sasa2754/sasa2754/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**sasa2754/sasa2754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
