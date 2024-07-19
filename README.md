@@ -26,7 +26,10 @@
 </div>
 </br>
 
-##
+# 
+![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
+
+#
 
 <div>
   <a href="https://www.instagram.com/sabrina.2754?igsh=MWNhcGo3Nm1jdTA2bA==" target="_blank"><img align="right" alt="Instagram" width="3%" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
