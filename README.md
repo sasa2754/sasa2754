@@ -21,7 +21,7 @@
 
 <div>
   <h2>Minhas linguagens mais usadas no momento:</h2>
-  
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasa2754&layout=donut&theme=neon"/>
   <img align="right" width="45%" style="margin-top:-20px" src="https://tenor.com/pt-BR/view/viciadoemcodar-gif-26484614.gif">
 </div>
 </br>
